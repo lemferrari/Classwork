@@ -1,4 +1,4 @@
-PMCno,DBH,Ht,Surv,Vig,Ins_res,Stem_Fm,Crown_Fm,Brnch_Fm,Utility
+PMCno,DBH,Ht,Surv,Vig,Ins_res,Stem_Fm,Crown_Fm,Brnch_Fm,Quality
 1642,20,11,43,4,3,4,4,4,good
 1606,14,10,97,5,4,4,4,3,best
 1471,11,7,54,2,3,3,4,3,low
